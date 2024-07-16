@@ -1,0 +1,71 @@
+* {
+  margin-top: 20px;
+  padding: 0;
+}
+
+.cetrekan-lampu{
+  text-align: center;
+  color: white;
+  background-color: black;
+  border-radius: 20px;
+}
+
+.lampu1 {
+  text-align: center;
+}
+
+.tombol-on {
+  padding: 10px 10px;
+  font-size: 30px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #04AA6D;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+  
+}
+
+.tombol-on:hover {
+  background-color: #3e8e41
+  
+}
+
+.tombol-on:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.tombol-off {
+  padding: 10px 10px;
+  font-size: 30px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #04AA6D;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+  
+}
+
+.tombol-off:hover {
+  background-color: #3e8e41
+  
+}
+
+.tombol-off:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+
+.copyright {
+  padding: 10vh;
+  text-align: center;
+}
